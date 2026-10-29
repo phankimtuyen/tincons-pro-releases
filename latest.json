@@ -1,0 +1,3 @@
+{"version":"6.9.3","published":"29/10/2026","notes":"Khóa kích hoạt điện thoại, BIM 3D trên điện thoại, SHA-256 khi cập nhật.",
+ "windows":{"url":"https://github.com/phankimtuyen/tincons-pro-releases/releases/download/v6.9.3/TinconsPro-v6.9.3.exe","id":"1E8k1lFgLkWiuPGufJdc6r_LlBdUUirsn","sha256":"972014aadbabc9bd2ba82e616fb8b21304889900a07777c89e68dfae55164ee6"},
+ "android":{"url":"https://github.com/phankimtuyen/tincons-pro-releases/releases/download/v6.9.3/TinconsPro-v6.9.3.apk","id":"1WsTdAFowMdFI-sMbBVnZf6NtVl1zfPZ1","versionCode":693,"sha256":"a98e2a0cac433f7bc756464b5e68edec37043e3bedfc79ff79f2316e3c9d3aca"}}
